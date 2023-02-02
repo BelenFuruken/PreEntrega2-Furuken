@@ -10,7 +10,7 @@ a{
     object-fit: cover;
 }
 
-/*!  BARRA DE NAVEGACIÓN   */
+/*!  BARRA DE NAVEGACIÓN  
 .logo{
     background-color: black;
     width: 100%;
@@ -44,7 +44,7 @@ nav{
     align-items: center;
     height: 35px;
 }
-
+ */
 .contacto_img{
     width: 100%;
     height: 500px;
@@ -84,17 +84,17 @@ p{
 }
 
 .input_comun{
-    height: 20px;
+    height: 30px;
     width: 85%;
 }
 .input_mensaje{
-    height: 85px;
+    height: 95px;
     width: 85%;
 }
-button{
+.btn_enviar{
     display: block;
     margin-top: 15px;
-    height: 25px;
+    height: 30px;
     width: 25%;
 }
 .circulo{
@@ -150,16 +150,16 @@ h5{
     align-items: center;
     justify-content: center;
 }
-input{
+.input_footer{
     margin: 5px;
     height: 23px;
     width: 50%;
 }
-button{
+.btn_footer{
     padding: 5px;
     margin: 10px;
     width: 20%;
-    height: 30px;
+    height: 38px;
 }
 h5{
     font-size: medium;
