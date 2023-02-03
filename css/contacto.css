@@ -212,3 +212,7 @@ h5{
         margin: 10px;
     }
 }
+.fuente_logo{
+    font-family: 'Bevan', cursive;
+    font-size: 40px;
+}

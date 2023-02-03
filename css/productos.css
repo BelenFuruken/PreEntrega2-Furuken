@@ -10,7 +10,7 @@ a{
     object-fit: cover;
 }
 
-/*!  BARRA DE NAVEGACIÓN   */
+/*!  BARRA DE NAVEGACIÓN   
 .logo{
     background-color: black;
     width: 100%;
@@ -44,6 +44,7 @@ nav{
     align-items: center;
     height: 35px;
 }
+*/
 
 /*!   FOOTER   */
 footer{
@@ -103,4 +104,8 @@ h5{
 }
 .circulo img{
     width: 60%;
+}
+.fuente_logo{
+    font-family: 'Bevan', cursive;
+    font-size: 40px;
 }

@@ -10,7 +10,7 @@ a{
     object-fit: cover;
 }
 
-/*!  BARRA DE NAVEGACIÓN   */
+/*!  BARRA DE NAVEGACIÓN  
 .logo{
     background-color: black;
     width: 100%;
@@ -44,6 +44,7 @@ nav{
     align-items: center;
     height: 35px;
 }
+ */
 
 /*!   FOOTER   */
 footer{
@@ -103,4 +104,28 @@ h5{
 }
 .circulo img{
     width: 60%;
+}
+.imagenes{
+    width: 100%;
+    margin: 20px;
+}
+.flex-conteiner{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.div_img{
+    width: 300px;
+    transition-property: all;
+    transition-duration: 1s;
+}
+.div_img:hover{
+    width: 400px;
+
+}
+.fuente_logo{
+    font-family: 'Bevan', cursive;
+    font-size: 40px;
 }
